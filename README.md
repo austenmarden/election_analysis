@@ -18,7 +18,7 @@ Tom and Steve from the Colorado Board of Elections have enlisted my support in c
 
 Example code on collecting the total number of votes, votes per candidate and votes per county.
 
-![candidate_votes](./resources/candidate_vote_example.png)
+![candidate_votes](./resources/candidate_vote_example.PNG)
 
 - Using this data, we were able to identify the number and percentage of votes for each county in the precinct including which county had the largest turnout.
 
@@ -33,7 +33,7 @@ Example code on collecting the total number of votes, votes per candidate and vo
 
 Example code on identifying total votesby county, percentage of votes by county and the county with the largest turnout.
 
-![winning_county](./resources/winning_county_example.png)
+![winning_county](./resources/winning_county_example.PNG)
 
 - Finally we identified the number and percentage of votes for each candidate as well as the winner of the election by popular vote.
 
@@ -51,7 +51,7 @@ Example code on identifying total votesby county, percentage of votes by county 
 
 Example code on identifying total votesby candidate, percentage of votes by candidate and the candidate with the popular vote who won the election.
 
-![candidate_winner](./resources/winning_candidate_example.png)
+![candidate_winner](./resources/winning_candidate_example.PNG)
 
 
 
